@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contributors
+- **M183B4KY0372** - Ali Samsul Latupono
+- **M183B4KY1285** - Ervin Aditya
+- **M183B4KX0585** - Annisa Silvia Chaniago
+- **A183B4KY2133** - Kalila Atha Achmad
+- **A183B4KY2558** - Mohamad Rifqi Dani Putranto
+- **C183B4KY3040** - Muhammad Ridhwan Hakiki
+- **C183B4KX3195** - Nadya Satya Maharani		
